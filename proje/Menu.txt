@@ -1,0 +1,12 @@
+* Lutfen Bir Pizza Tabani Seciniz:
+1: Klasik Pizza----------->50TL
+2: Margarita Pizza-------->45TL
+3: Turk Pizza------------->60TL
+4: Sade Pizza------------->40TL
+11: Zeytin---------------->3.5TL
+12: Mantarlar------------->4.5TL
+13: Keci Peyniri---------->6.0TL
+14: Et-------------------->8.0TL
+15: Sogan----------------->3.0TL
+16: Misir----------------->2.5TL
+
